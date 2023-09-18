@@ -1,2 +1,2 @@
 # API-Wordlist
-A wordlist of API documentation endpoint used for fuzzing web application APIs.
+A wordlist designed for API documentation endpoints, specifically for fuzzing web applications, search for Swagger, or OpenAI documentation.
