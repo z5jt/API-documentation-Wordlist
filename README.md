@@ -15,7 +15,7 @@ A comprehensive wordlist specifically designed for exploring and fuzzing API doc
    
 3. **Brute Force After the domain**  
    Use the wordlist to fuzz endpoints after the domain. 
-   Example:  https://example.com/FUZZ
+   Example: https://example.com/FUZZ
 
 ## Contributing
 
