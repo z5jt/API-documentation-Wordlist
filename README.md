@@ -11,10 +11,12 @@ A comprehensive wordlist specifically designed for exploring and fuzzing API doc
 
 1. **Brute Force After Your API Route Endpoint**  
    Use the wordlist to fuzz endpoints after your base API route.  
+
    Example: https://example.com/api/FUZZ
    
 3. **Brute Force After the domain**  
    Use the wordlist to fuzz endpoints after the domain.
+
    Example: https://example.com/FUZZ
 
 ## Contributing
