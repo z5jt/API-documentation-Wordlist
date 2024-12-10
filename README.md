@@ -1,4 +1,4 @@
-#API-Wordlist
+"API-Wordlist"
 A comprehensive wordlist specifically designed for exploring and fuzzing API documentation endpoints. This wordlist is especially useful for testing web applications, discovering Swagger, OpenAPI documentation, or general API endpoints.
 
 Folder Structure
