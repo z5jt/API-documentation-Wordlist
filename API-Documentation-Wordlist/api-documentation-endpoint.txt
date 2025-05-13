@@ -2263,8 +2263,6 @@
 /redoc/apispec/
 /redoc/apispec_1/
 /redoc/api-merged/
-
-# WADL endpoints (internal/system)
 application.wadl
 internal/application.wadl
 system/application.wadl
@@ -2273,7 +2271,6 @@ internal/application.wadl.xml
 system/application.wadl.xml
 application.wadl?detail=true
 application.wadl?format=xml
-
 /api/application.wadl
 /api/internal/application.wadl
 /api/system/application.wadl
