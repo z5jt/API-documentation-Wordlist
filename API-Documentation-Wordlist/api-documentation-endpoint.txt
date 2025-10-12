@@ -4447,4 +4447,3 @@
 /openapi.html
 /swagger-resources/configuration/ui.html
 /swagger.html
-/
