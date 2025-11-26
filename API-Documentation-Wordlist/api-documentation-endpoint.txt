@@ -1,4 +1,3 @@
-/
 /api
 /api/
 /api/api
