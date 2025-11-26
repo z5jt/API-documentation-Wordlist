@@ -1,3 +1,4 @@
+/
 /api
 /api/
 /api/api
@@ -1415,6 +1416,14 @@
 /docs/swagger-ui/v2/swagger.html
 /docs/swagger-ui/v2/swagger/index.html
 /docs/swagger-ui/v2/swagger.json
+/swagger.json
+/swagger.json/
+/swagger.yaml
+/swagger.yaml/
+/openapi.json/
+/openapi.json
+/openapi.yaml
+/openapi.yaml/
 /docs/swagger-ui/v2/swagger-resources
 /docs/swagger-ui/v2/swagger-resources/
 /docs/swagger-ui/v2/swagger-resources.html
