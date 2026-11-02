@@ -1,4 +1,5 @@
 /help
+/api/help
 /api
 /api/
 /swagger-ui/index.js
